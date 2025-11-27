@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/beshah80/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/beshah80/leetcode/tree/master/0326-power-of-three) |
 | [0808-soup-servings](https://github.com/beshah80/leetcode/tree/master/0808-soup-servings) |
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/beshah80/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/beshah80/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/beshah80/leetcode/tree/master/0326-power-of-three) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |

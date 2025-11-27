@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/beshah80/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/beshah80/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/beshah80/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/beshah80/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/beshah80/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/beshah80/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/beshah80/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/beshah80/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/beshah80/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/beshah80/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/beshah80/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/beshah80/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/beshah80/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/beshah80/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Sliding Window

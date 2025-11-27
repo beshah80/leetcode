@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/beshah80/leetcode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/beshah80/leetcode/tree/master/1518-water-bottles) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/beshah80/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2169-count-operations-to-obtain-zero](https://github.com/beshah80/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/beshah80/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/beshah80/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/beshah80/leetcode/tree/master/0498-diagonal-traverse) |
 | [1518-water-bottles](https://github.com/beshah80/leetcode/tree/master/1518-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beshah80/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2169-count-operations-to-obtain-zero](https://github.com/beshah80/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/beshah80/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |

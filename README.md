@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/beshah80/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3136-valid-word](https://github.com/beshah80/leetcode/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/beshah80/leetcode/tree/master/3330-find-the-original-typed-string-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/beshah80/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->

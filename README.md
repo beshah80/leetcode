@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/beshah80/leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/beshah80/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/beshah80/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/beshah80/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/beshah80/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/beshah80/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/beshah80/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Sliding Window
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/beshah80/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/beshah80/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Linked List
 |  |
 | ------- |

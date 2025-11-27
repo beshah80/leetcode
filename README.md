@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/beshah80/leetcode/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/beshah80/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/beshah80/leetcode/tree/master/0231-power-of-two) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/beshah80/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/beshah80/leetcode/tree/master/0231-power-of-two) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |

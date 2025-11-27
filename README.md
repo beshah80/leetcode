@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/beshah80/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/beshah80/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/beshah80/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/beshah80/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/beshah80/leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/beshah80/leetcode/tree/master/1488-avoid-flood-in-the-city) |
+## Prefix Sum
+|  |
+| ------- |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/beshah80/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->

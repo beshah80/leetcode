@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/beshah80/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/beshah80/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3136-valid-word](https://github.com/beshah80/leetcode/tree/master/3136-valid-word) |
+| [3227-vowels-game-in-a-string](https://github.com/beshah80/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/beshah80/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/beshah80/leetcode/tree/master/1323-maximum-69-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/beshah80/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3227-vowels-game-in-a-string](https://github.com/beshah80/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3516-find-closest-person](https://github.com/beshah80/leetcode/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/beshah80/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [3227-vowels-game-in-a-string](https://github.com/beshah80/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/beshah80/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/beshah80/leetcode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

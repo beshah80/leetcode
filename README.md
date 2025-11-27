@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/beshah80/leetcode/tree/master/0679-24-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/beshah80/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/beshah80/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/beshah80/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/beshah80/leetcode/tree/master/0837-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Segment Tree
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0808-soup-servings](https://github.com/beshah80/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/beshah80/leetcode/tree/master/0837-new-21-game) |
+## Matrix
+|  |
+| ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->

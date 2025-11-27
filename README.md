@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/beshah80/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/beshah80/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/beshah80/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/beshah80/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/beshah80/leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/beshah80/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0976-largest-perimeter-triangle](https://github.com/beshah80/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/beshah80/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2785-sort-vowels-in-a-string](https://github.com/beshah80/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [1488-avoid-flood-in-the-city](https://github.com/beshah80/leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/beshah80/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |

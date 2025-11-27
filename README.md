@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/beshah80/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/beshah80/leetcode/tree/master/0118-pascals-triangle) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

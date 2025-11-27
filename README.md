@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0966-vowel-spellchecker](https://github.com/beshah80/leetcode/tree/master/0966-vowel-spellchecker) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/beshah80/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/beshah80/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/beshah80/leetcode/tree/master/0679-24-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0966-vowel-spellchecker](https://github.com/beshah80/leetcode/tree/master/0966-vowel-spellchecker) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/beshah80/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/beshah80/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/beshah80/leetcode/tree/master/0037-sudoku-solver) |
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0966-vowel-spellchecker](https://github.com/beshah80/leetcode/tree/master/0966-vowel-spellchecker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/beshah80/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/beshah80/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/beshah80/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |

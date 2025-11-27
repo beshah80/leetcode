@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/beshah80/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1695-maximum-erasure-value](https://github.com/beshah80/leetcode/tree/master/1695-maximum-erasure-value) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/beshah80/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/beshah80/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/beshah80/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/beshah80/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/beshah80/leetcode/tree/master/1695-maximum-erasure-value) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/beshah80/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Counting
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/beshah80/leetcode/tree/master/1323-maximum-69-number) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/beshah80/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |

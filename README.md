@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/beshah80/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/beshah80/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/beshah80/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/beshah80/leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/beshah80/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/beshah80/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beshah80/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/beshah80/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/beshah80/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beshah80/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/beshah80/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2785-sort-vowels-in-a-string](https://github.com/beshah80/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Linked List
 |  |
 | ------- |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/beshah80/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/beshah80/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |
 ## Brainteaser
@@ -235,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/beshah80/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/beshah80/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Segment Tree
 |  |
 | ------- |

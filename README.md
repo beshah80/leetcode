@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
+| [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/beshah80/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
+| [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beshah80/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
+| [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |
 ## Brainteaser
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -229,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/beshah80/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |
 ## Game Theory
 |  |
 | ------- |

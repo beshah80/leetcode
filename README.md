@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/beshah80/leetcode/tree/master/0498-diagonal-traverse) |
 | [1518-water-bottles](https://github.com/beshah80/leetcode/tree/master/1518-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beshah80/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/beshah80/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/beshah80/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/beshah80/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beshah80/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/beshah80/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/beshah80/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/beshah80/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/beshah80/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/beshah80/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/beshah80/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/beshah80/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/beshah80/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/beshah80/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/beshah80/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0976-largest-perimeter-triangle](https://github.com/beshah80/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/beshah80/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/beshah80/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/beshah80/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |

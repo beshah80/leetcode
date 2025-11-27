@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/beshah80/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+## Greedy
+|  |
+| ------- |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->

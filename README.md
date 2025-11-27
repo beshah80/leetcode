@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/beshah80/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/beshah80/leetcode/tree/master/0342-power-of-four) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/beshah80/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/beshah80/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/beshah80/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0966-vowel-spellchecker](https://github.com/beshah80/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0976-largest-perimeter-triangle](https://github.com/beshah80/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/beshah80/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/beshah80/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/beshah80/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |

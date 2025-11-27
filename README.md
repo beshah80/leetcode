@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/beshah80/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/beshah80/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3136-valid-word](https://github.com/beshah80/leetcode/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/beshah80/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 ## Math

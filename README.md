@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/beshah80/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/beshah80/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/beshah80/leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/beshah80/leetcode/tree/master/0679-24-game) |
 | [0808-soup-servings](https://github.com/beshah80/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/beshah80/leetcode/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/beshah80/leetcode/tree/master/0118-pascals-triangle) |
+| [0679-24-game](https://github.com/beshah80/leetcode/tree/master/0679-24-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/beshah80/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/beshah80/leetcode/tree/master/0679-24-game) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/beshah80/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |

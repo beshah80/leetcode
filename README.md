@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/beshah80/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/beshah80/leetcode/tree/master/1323-maximum-69-number) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/beshah80/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/beshah80/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/beshah80/leetcode/tree/master/3227-vowels-game-in-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/beshah80/leetcode/tree/master/0498-diagonal-traverse) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/beshah80/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/beshah80/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/beshah80/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/beshah80/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/beshah80/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/beshah80/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/beshah80/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->

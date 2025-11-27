@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/beshah80/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/beshah80/leetcode/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/beshah80/leetcode/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/beshah80/leetcode/tree/master/0679-24-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [1323-maximum-69-number](https://github.com/beshah80/leetcode/tree/master/1323-maximum-69-number) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/beshah80/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -160,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/beshah80/leetcode/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2785-sort-vowels-in-a-string](https://github.com/beshah80/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |

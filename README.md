@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/beshah80/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/beshah80/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/beshah80/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/beshah80/leetcode/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/beshah80/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/beshah80/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |

@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/beshah80/leetcode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/beshah80/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/beshah80/leetcode/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/beshah80/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0812-largest-triangle-area](https://github.com/beshah80/leetcode/tree/master/0812-largest-triangle-area) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |

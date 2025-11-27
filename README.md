@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/beshah80/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/beshah80/leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/beshah80/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/beshah80/leetcode/tree/master/0808-soup-servings) |
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/beshah80/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/beshah80/leetcode/tree/master/1323-maximum-69-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/beshah80/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/beshah80/leetcode/tree/master/1323-maximum-69-number) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |

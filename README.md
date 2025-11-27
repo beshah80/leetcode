@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/beshah80/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/beshah80/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0966-vowel-spellchecker](https://github.com/beshah80/leetcode/tree/master/0966-vowel-spellchecker) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/beshah80/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/beshah80/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/beshah80/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/beshah80/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/beshah80/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/beshah80/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/beshah80/leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -312,10 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/beshah80/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/beshah80/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/beshah80/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/beshah80/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

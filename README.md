@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/beshah80/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/beshah80/leetcode/tree/master/0342-power-of-four) |
 | [0808-soup-servings](https://github.com/beshah80/leetcode/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/beshah80/leetcode/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/beshah80/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/beshah80/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/beshah80/leetcode/tree/master/1323-maximum-69-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0837-new-21-game](https://github.com/beshah80/leetcode/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/beshah80/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/beshah80/leetcode/tree/master/0118-pascals-triangle) |
 | [0808-soup-servings](https://github.com/beshah80/leetcode/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/beshah80/leetcode/tree/master/0837-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Segment Tree
 |  |
@@ -145,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/beshah80/leetcode/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/beshah80/leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->

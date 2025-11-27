@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/beshah80/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/beshah80/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1504-count-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1695-maximum-erasure-value](https://github.com/beshah80/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/beshah80/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1504-count-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/beshah80/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/beshah80/leetcode/tree/master/0837-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/beshah80/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1504-count-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Segment Tree
 |  |
 | ------- |
@@ -160,4 +163,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1504-count-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1504-count-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->

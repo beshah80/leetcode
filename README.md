@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/beshah80/leetcode/tree/master/3136-valid-word) |
 | [3227-vowels-game-in-a-string](https://github.com/beshah80/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/beshah80/leetcode/tree/master/3330-find-the-original-typed-string-i) |
+| [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beshah80/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/beshah80/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/beshah80/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beshah80/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/beshah80/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/beshah80/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/beshah80/leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
 ## Monotonic Stack
 |  |
 | ------- |

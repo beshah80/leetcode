@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/beshah80/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/beshah80/leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/beshah80/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/beshah80/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/beshah80/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/beshah80/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/beshah80/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/beshah80/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/beshah80/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/beshah80/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/beshah80/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3484-design-spreadsheet](https://github.com/beshah80/leetcode/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/beshah80/leetcode/tree/master/3508-implement-router) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beshah80/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/beshah80/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/beshah80/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/beshah80/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/beshah80/leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/beshah80/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |

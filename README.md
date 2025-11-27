@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/beshah80/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/beshah80/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/beshah80/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/beshah80/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/beshah80/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/beshah80/leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/beshah80/leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1504-count-submatrices-with-all-ones](https://github.com/beshah80/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/beshah80/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Monotonic Stack
 |  |
 | ------- |
